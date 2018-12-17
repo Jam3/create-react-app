@@ -20,7 +20,7 @@
     "utils"
   ],
   "bin": {
-    "jam3-react-scripts": "./bin/jam3-react-scripts.js"
+    "react-scripts": "./bin/react-scripts.js"
   },
   "types": "./lib/react-app.d.ts",
   "dependencies": {
