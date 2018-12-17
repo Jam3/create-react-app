@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import Jam3Logo from './jam3-logo.svg';
 import './App.css';
 
 class App extends Component {
@@ -7,17 +7,19 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
+          <img src={Jam3Logo} className="App-logo" alt="logo" />
+          <p>GIVE ALL THE FUCKS!</p>
+          <p>MAKE IT HAPPEN!</p>
+          <br/>
+          <p>WE CREATE MODERN EXPERIENCES</p>
+          <p>FOR TOMORROW'S BRANDS</p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://jam3.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            JAM3
           </a>
         </header>
       </div>

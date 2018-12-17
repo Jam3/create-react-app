@@ -255,7 +255,12 @@ module.exports = function(
     );
   }
   console.log();
-  console.log('Happy hacking!');
+  console.log('    GIVE ALL THE FUCKS!');
+  console.log('      MAKE IT HAPPEN!');
+  console.log();
+  console.log('WE CREATE MODERN EXPERIENCES');
+  console.log(`   FOR TOMORROW'S BRANDS`);
+  console.log('          JAM3');
 };
 
 function isReactInstalled(appPackage) {
